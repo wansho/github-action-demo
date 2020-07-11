@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-action-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github-action-demo/static/js/main.65b5db8a.chunk.js",
+    "main.js.map": "/github-action-demo/static/js/main.65b5db8a.chunk.js.map",
+    "runtime-main.js": "/github-action-demo/static/js/runtime-main.abd96142.js",
+    "runtime-main.js.map": "/github-action-demo/static/js/runtime-main.abd96142.js.map",
+    "static/js/2.23e0294e.chunk.js": "/github-action-demo/static/js/2.23e0294e.chunk.js",
+    "static/js/2.23e0294e.chunk.js.map": "/github-action-demo/static/js/2.23e0294e.chunk.js.map",
+    "index.html": "/github-action-demo/index.html",
+    "precache-manifest.aa0cf664f69053323eadc1f4cee8f404.js": "/github-action-demo/precache-manifest.aa0cf664f69053323eadc1f4cee8f404.js",
+    "service-worker.js": "/github-action-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/github-action-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.23e0294e.chunk.js.LICENSE.txt": "/github-action-demo/static/js/2.23e0294e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github-action-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abd96142.js",
+    "static/js/2.23e0294e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.65b5db8a.chunk.js"
+  ]
+}
